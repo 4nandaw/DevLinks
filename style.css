@@ -1,9 +1,7 @@
 body {
     /* background: url repeat position/size */
     background: var(--bg-url) no-repeat top center/cover;
-    margin: 0;
-    padding: 0;
-
+    
     /*
     background-image: url(./assets/bg-mobile.jpg);
     background-repeat: no-repeat;
@@ -14,6 +12,8 @@ body {
 
 /* Seletor universal = * (aplica para todos os elementos do body) */
 body * {
+    margin: 0;
+    padding: 0;
     font-family: "Inter", sans-serif;
     color: var(--text-color);
 }
