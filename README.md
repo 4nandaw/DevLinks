@@ -26,3 +26,5 @@
 ## 📝 Autor
 
 Este projeto foi desenvolvido por Ananda Vilar Vidal -com base nos vídeos do curso Discover da Rocketseat.
+
+<!-- Materiais: https://efficient-sloth-d85.notion.site/Materiais-complementares-d7841615addc4269ba5c5bba12a6edbe -->
